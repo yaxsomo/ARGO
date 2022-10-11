@@ -40,4 +40,4 @@ Exemple for out repo :
 > git clone -b intelligence git@github.com:yaxsomo/ARGO.git
 
 
-
+<span style="color:blue">some *blue* text</span>.

@@ -12,7 +12,7 @@ Blog (FR) to see the evolution of the state of our projects : (Link to Blog/Medi
 ## Environment installation
 
 #### Conda
-
+***
 ***Environnment creation*** 
 
 ```bash
@@ -33,7 +33,7 @@ yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$ conda activate [Environ
 
 
 #### Original Python3 CLI
-
+***
 ***Install venv*** : - `pip install venv`
 
 ***Environnment creation*** 

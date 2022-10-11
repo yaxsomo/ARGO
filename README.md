@@ -30,7 +30,7 @@ yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$ conda activate [Environ
 (Environnment Name) yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$
 
 ```
-***
+
 
 ### Original Python3 CLI
 

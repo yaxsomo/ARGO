@@ -17,7 +17,11 @@ Blog (FR) to see the evolution of the state of our projects : (Link to Blog/Medi
 
 To clone the repo (main branch) into you Editor use the command below :
 
-> git clone https://github.com/yaxsomo/ARGO.git
+```bash
+
+yaxsomo@DESKTOP-NSG7C6S:~$ git clone git@github.com:yaxsomo/ARGO.git
+
+```
 
 ## Branches
 

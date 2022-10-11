@@ -1,5 +1,5 @@
 # ARGO - The autonomous drone
-
+{: .gitlab-orange}
 
 ## Context 
 

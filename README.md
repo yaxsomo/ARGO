@@ -83,10 +83,11 @@ You can also add the flag -b to get a specific branch using the form below :
 yaxsomo@DESKTOP-NSG7C6S:~$ git clone -b intelligence git@github.com:yaxsomo/ARGO.git
 
 ```
+***
+### Installing requirements
 
-
-
+To install all the required packages and dependencies, you can use the command below : 
 
 - `pip3 install -r requirements.txt`
 
-
+***********************

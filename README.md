@@ -13,8 +13,23 @@ Blog (FR) to see the evolution of the state of our projects : (Link to Blog/Medi
 
 #### Conda
 
-***Environnment creation*** - `conda create -n ia-robot python=3.9`
-***Environnment activation*** - `conda activate ia-robot`
+***Environnment creation*** 
+
+```bash
+
+yaxsomo@DESKTOP-NSG7C6S:~/Workspace$ conda create -n [Environnment Name] python=[Python Version : Ex. 3.9]
+yaxsomo@DESKTOP-NSG7C6S:~$ cd [Environnment Name]
+
+```
+
+***Environnment activation*** 
+
+```bash
+
+yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$ conda activate [Environnment Name]
+(Environnment Name) yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$
+
+```
 
 
 #### Original Python3 CLI

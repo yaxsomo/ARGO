@@ -38,3 +38,4 @@ You can also add the flag -b to get a specific branch using the form below :
 Exemple for out repo : 
 
 > git clone -b intelligence git@github.com:yaxsomo/ARGO.git
+> $$\textcolor{yellow}{\text{Hello World}}$$

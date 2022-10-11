@@ -33,13 +33,9 @@ We have 4 branches availables. Every one of them has a specific function :
 
 You can also add the flag -b to get a specific branch using the form below :
 
-> git clone -b  $\textcolor{green}{\text{branch}}$ $\textcolor{blue}{\text{remote repo}}$
+```bash
 
-Exemple for out repo : 
+yaxsomo@DESKTOP-NSG7C6S:~$ git clone -b intelligence git@github.com:yaxsomo/ARGO.git
 
-> git clone -b intelligence git@github.com:yaxsomo/ARGO.git
-
-```html
-   <span style="color:blue">some *blue* text</span>.
 ```
 

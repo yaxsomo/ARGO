@@ -39,5 +39,7 @@ Exemple for out repo :
 
 > git clone -b intelligence git@github.com:yaxsomo/ARGO.git
 
+```html
+   <span style="color:blue">some *blue* text</span>.
+```
 
-<span style="color:blue">some *blue* text</span>.

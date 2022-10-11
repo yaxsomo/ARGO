@@ -51,7 +51,6 @@ yaxsomo@DESKTOP-NSG7C6S:~$ cd [Environnment Name]
 yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$ Scripts\activate
 ([Environnment Name]) yaxsomo@DESKTOP-NSG7C6S:~Workspace/[Environnment Name]$ 
 
-
 ```
 ***
 

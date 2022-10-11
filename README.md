@@ -1,17 +1,20 @@
-# ARGO
-Context
-This is a school project. We're working on a Robot.
+# ARGO - The autonomous drone
 
-On the current repository we have defined some simple path management.
+
+## Context 
+
+This is a school project, we're working on a **AI-Powered drone**.
+
+This file will be updated regularly to give the best implementation/execution possible.
 
 Blog (FR) to see the evolution of the state of our projects : (Link to Blog/Medium)
----------------------------------------------------
-Environment installation
+
+## Environment installation
 
 //TO BE DONE
 
----------------------------------------------------
-Getting started
+## Getting started
 
+To clone the repo into you Editor use the command below :
 
-//TO BE DONE
+> git clone https://github.com/yaxsomo/ARGO.git

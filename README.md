@@ -1,5 +1,5 @@
 # ARGO - The autonomous drone
-{: .gitlab-orange}
+
 
 ## Context 
 
@@ -33,9 +33,11 @@ We have 4 branches availables. Every one of them has a specific function :
 
 You can also add the flag -b to get a specific branch using the form below :
 
-> git clone -b *branch* {: .gitlab-purple} *remote_repo*
+> git clone -b  *branch* *remote_repo*
 
 Exemple for out repo : 
 
 > git clone -b intelligence git@github.com:yaxsomo/ARGO.git
-> $$\textcolor{yellow}{\text{Hello World}}$$
+
+
+$\textcolor{green}\textsf{Hello}}$

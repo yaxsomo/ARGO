@@ -1,6 +1,6 @@
 # ARGO - The autonomous drone
 
-
+***
 ## Context 
 
 This is a school project, we're working on a **AI-Powered drone**.
@@ -8,11 +8,11 @@ This is a school project, we're working on a **AI-Powered drone**.
 This file will be updated regularly to give the best implementation/execution possible.
 
 Blog (FR) to see the evolution of the state of our projects : (Link to Blog/Medium)
-
+***
 ## Environment installation
 
-#### Conda
-***
+### Conda
+
 ***Environnment creation*** 
 
 ```bash
@@ -30,10 +30,10 @@ yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$ conda activate [Environ
 (Environnment Name) yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$
 
 ```
-
-
-#### Original Python3 CLI
 ***
+
+### Original Python3 CLI
+
 ***Install venv*** : - `pip install venv`
 
 ***Environnment creation*** 
@@ -54,7 +54,7 @@ yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$ Scripts\activate
 
 
 ```
-
+***
 
 ## Getting started
 

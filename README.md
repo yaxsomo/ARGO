@@ -40,4 +40,4 @@ Exemple for out repo :
 > git clone -b intelligence git@github.com:yaxsomo/ARGO.git
 
 
-$\textcolor{green}\textsf{Hello}}$
+$\textcolor{green}{\text{Hello}}$ World

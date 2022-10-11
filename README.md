@@ -11,7 +11,11 @@ Blog (FR) to see the evolution of the state of our projects : (Link to Blog/Medi
 
 ## Environment installation
 
-//TO BE DONE
+You can install it via conda procedure or you can do the same with the original Python3 CLI.
+
+- `conda create -n ia-robot python=3.9`
+- `conda activate ia-robot`
+- `pip3 install -r requirements.txt`
 
 ## Getting started
 

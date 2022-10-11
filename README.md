@@ -27,13 +27,13 @@ yaxsomo@DESKTOP-NSG7C6S:~$ git clone git@github.com:yaxsomo/ARGO.git
 
 We have 4 branches availables. Every one of them has a specific function :
 
-> main : We will merge all the work done and tested to this branch
+> ***main*** : We will merge all the work done and tested to this branch
 
-> test : We will test new functionalities on this branch
+> ***test*** : We will test new functionalities on this branch
 
-> hardware_motion : This branch will contain all the work in relation with the drone basic fly motions
+> ***hardware_motion*** : This branch will contain all the work in relation with the drone basic fly motions
 
-> intelligence : This branch will contain all the Machine Learning/Computer Vision algo
+> ***intelligence*** : This branch will contain all the Machine Learning/Computer Vision algo
 
 You can also add the flag -b to get a specific branch using the form below :
 

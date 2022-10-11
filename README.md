@@ -1,6 +1,5 @@
 # ARGO - The autonomous drone
 
-***
 ## Context 
 
 This is a school project, we're working on a **AI-Powered drone**.

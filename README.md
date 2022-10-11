@@ -11,13 +11,34 @@ Blog (FR) to see the evolution of the state of our projects : (Link to Blog/Medi
 
 ## Environment installation
 
-### Conda
+#### Conda
 
-- `conda create -n ia-robot python=3.9`
-- `conda activate ia-robot`
-- `pip3 install -r requirements.txt`
+***Environnment creation*** - `conda create -n ia-robot python=3.9`
+***Environnment activation*** - `conda activate ia-robot`
 
-### Original Python3 CLI
+
+#### Original Python3 CLI
+
+***Install venv*** : - `pip install venv`
+
+***Environnment creation*** 
+
+```bash
+
+yaxsomo@DESKTOP-NSG7C6S:~/Workspace$ py -m venv [Environnment Name]
+yaxsomo@DESKTOP-NSG7C6S:~$ cd [Environnment Name]
+
+```
+
+***Environnment activation*** - `conda activate ia-robot`
+
+```bash
+
+yaxsomo@DESKTOP-NSG7C6S:~/Workspace/[Environnment Name]$ Scripts\activate
+([Environnment Name]) yaxsomo@DESKTOP-NSG7C6S:~Workspace/[Environnment Name]$ 
+
+
+```
 
 
 ## Getting started
@@ -49,4 +70,10 @@ You can also add the flag -b to get a specific branch using the form below :
 yaxsomo@DESKTOP-NSG7C6S:~$ git clone -b intelligence git@github.com:yaxsomo/ARGO.git
 
 ```
+
+
+
+
+- `pip3 install -r requirements.txt`
+
 

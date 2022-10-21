@@ -72,6 +72,8 @@ We have 4 branches availables. Every one of them has a specific function :
 
 > ***test*** : We will test new functionalities on this branch
 
+> ***dataviz*** : This branch will contain all the work in relation with data treatment and visualization (plotting)
+
 > ***hardware_motion*** : This branch will contain all the work in relation with the drone basic fly motions
 
 > ***intelligence*** : This branch will contain all the Machine Learning/Computer Vision algo

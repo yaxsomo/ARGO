@@ -80,7 +80,7 @@ You can also add the flag -b to get a specific branch using the form below :
 
 ```bash
 
-yaxsomo@DESKTOP-NSG7C6S:~$ git clone -b intelligence git@github.com:yaxsomo/ARGO.git
+yaxsomo@DESKTOP-NSG7C6S:~$ git clone -b intelligence https://github.com/yaxsomo/ARGO.git
 
 ```
 ***

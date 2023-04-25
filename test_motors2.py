@@ -1,5 +1,5 @@
 from pymavlink import mavutil
-from dronekit import connect, VehicleMode, LocationGlobalRelative.APIException
+from dronekit import connect, VehicleMode, LocationGlobalRelative,APIException
 import time
 import math
 import exceptions
@@ -11,7 +11,7 @@ import argparse
 def connectToDrone():
     # Define command line arguments
     parser = argparse.ArgumentParser(description='Motor Test for PixHawk')
-    parser.add_argument('--port', type=str, default='/dev/ttyTHS0', help='Serial port for PixHawk (default: /dev/ttyTHS1)')
+    parser.add_argument('--port', type=str, default='/dev/ttyTHS0', help='Serial port for PixHawk (default: /dev/ttyTHS0)')
     args = parser.parse_args()
 
 
@@ -32,7 +32,7 @@ def arm():
     while vehicle.armed==False:
         print("Waiting for the drone to become armed")
         time.sleep(1)
-        
+
     print("Drone is now armed!!!")
     print("Propellers spinning")
 

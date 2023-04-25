@@ -15,9 +15,10 @@ def connectToDrone():
 
 
     baud_rate = 57600
+    connection_string = args.port
 
     # Connect to PixHawk
-    vehicle = connect(args.port,baud_rate,wait_ready=True)
+    vehicle = connect(connection_string,baud=baud_rate,wait_ready=True)
     return vehicle
 
 def arm():
